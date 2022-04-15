@@ -44,51 +44,52 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>Dating Tayo</h2>";
-                        echo "<p class='lead '>TJ Monterde</p>";
+                        echo "<h2 class='text-primary'>Your Song</h2>";
+                        echo "<p class='lead '>Parokya ni Edgar</p>";
 
                          echo "<br/>";
                          
                 
-                        echo "<p> Lagi nalang ganito </p>";
-                        echo "<p> Isipan ay gulong gulo</p>";
-                        echo "<p> Lagi nalang nabibigo</p>";
-                        echo "<p> Ngunit ikaw pa rin, sigaw ng puso</p>";
+                        echo "<p> It took one look </p>";
+                        echo "<p> Then forever laid out in front of me</p>";
+                        echo "<p> One smile then I died</p>";
+                        echo "<p> Only to be revived by you</p>";
                         echo "<br/>";
 
-                        echo "<p> Ilang liham na ang sinulat sayo</p>";
-                        echo "<p> Ilang luha na rin ang natuyo</p>";
+                        echo "<p> There I was</p>";
+                        echo "<p> Thought I had everything figured out</p>";
+                        echo "<p> It goes to show just how much I know</p>";
+                        echo "<p> 'Bout the way life plays out</p>";
                         echo "<br/>";
 
-                        echo "<p> Kailan kaya muling makakatawang</p>";
-                        echo "<p> Hindi ko pinipilit, walang lungkot na sumisilip?</p>";
-                        echo "<p> Kailan kaya muling makakamit</p>";
-                        echo "<p> Ang iyong yakap at halik nang hindi sa panaginip?</p>";
-                        echo "<p> Kailaaan? Kailaaaan? Kailaaaan ang dating tayo?</p>";
+                        echo "<p> I take one step away/p>";
+                        echo "<p> And I find myself coming back to you</p>";
+                        echo "<p> My one and only, one and only you...</p>";
                         echo "<br/>";
 
-                        echo "<p> Kung ano man ang totoo</p>";
-                        echo "<p> Isip man ay litong lito</p>";
-                        echo "<p> Handang handa akong sumalo</p>";
-                        echo "<p> Pagkat ikaw pa rin sigaw ng puso</p>";
+                        echo "<p> Now I know</p>";
+                        echo "<p> That I know not a thing at all</p>";
+                        echo "<p> That I know not a thing at all</p>";
+                        echo "<p> And that you are mine</p>";
                         echo "<br/>";
 
-                        echo "<p> Ilang awit na ang inalay sayo</p>";
-                        echo "<p> Ilang luha na rin ang natuyo</p>";
+                        echo "<p> I take one step away</p>";
+                        echo "<p> And I find myself coming back to you</p>";
+                        echo "<p> My one and only, one and only...</p>"; 
                         echo "<br/>";
 
-                        echo "<p> Kailan kaya muling makakatawang</p>";
-                        echo "<p> Hindi ko pinipilit, walang lungkot na sumisilip</p>";
-                        echo "<p> Kailan kaya muling makakamit</p>";
-                        echo "<p> Ang iyong yakap at halik ng hindi sa panaginip?</p>";
-                        echo "<p> Kailaaan? Kailaaaan? Kailaaaan? (kailan) kailan</p>";
-                        echo "<p> Kailaaan ang dating...</p>";
+                        echo "<p> Oh, you told me that this wouldn't be easy</p>";
+                        echo "<p> Oh, I'm not one to complain</p>";
                         echo "<br/>";
 
-                        echo "<p> Kailan kaya muling matatamasang?</p>";
-                        echo "<p> Ikaw ay makasama at sabay tayong kakanta</p>";
-                        echo "<p> Kailan kaya muling mararanasan?</p>";
-                        echo "<p> Sa pagdilat ng mata, ika'y hindi lang ala-ala</p>";
+                        echo "<p> I take one step away</p>";
+                        echo "<p> And I find myself coming back to you</p>";
+                        echo "<p> My one and only, one and only</p>";
+                        echo "<br/>";
+
+                        echo "<p> I take one step away</p>";
+                        echo "<p> And I find myself coming back to you</p>";
+                        echo "<p> My one and only, one and only</p>";
                         echo "<br/>";
 
                        
